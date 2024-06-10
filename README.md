@@ -4,7 +4,7 @@ Create a new note from selected text and replace it with a link.
 
 ## Installation
 
-1. Download the latest release from the [releases page](https://github.com/yourusername/create-note-from-selection/releases).
+1. Download the latest release from the [releases page](https://github.com/prsidhu/deep-notes/releases).
 2. Extract the files into your Obsidian plugins folder (`<vault>/.obsidian/plugins/create-note-from-selection`).
 3. Enable the plugin in Obsidian settings under "Community plugins".
 
