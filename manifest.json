@@ -5,7 +5,7 @@
 	"minAppVersion": "0.15.0",
 	"description": "Allows you to create nested notes with automatic generation of backlinks.",
 	"author": "Preet Sidhu",
-	"authorUrl": "https://github.com/prsidhu/deep-notes",
+	"authorUrl": "https://github.com/prsidhu",
 	"fundingUrl": "https://buymeacoffee.com/prsidhu",
 	"isDesktopOnly": false
 }
